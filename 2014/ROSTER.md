@@ -6,5 +6,5 @@ Github: [@danielberkompas](http://github.com/danielberkompas)
 
 Roster
 ----------------------------
-Your Name, Student  
-Github: [@github_username](http://link-to-github-profile) 
+Galena Berkompas, Student  
+Github: [@gberkompas](https://github.com/gberkompas) 
